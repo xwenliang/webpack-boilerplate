@@ -1,0 +1,195 @@
+{
+  "html-webpack-plugin for \"page1-deploy.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRHqcYYwf",
+          "node_modules/webpack/buildin/global.js": "DuR2MXOpqV",
+          "node_modules/html-webpack-plugin/lib/loader.js!src/page1.html": "GMxGRtV3G+",
+          "node_modules/lodash/lodash.js": "M4fFHvVeAA"
+        },
+        "usedIds": {
+          "3IRHqcYYwf": "3IRHqcYYwf",
+          "DuR2MXOpqV": "DuR2MXOpqV",
+          "GMxGRtV3G+": "GMxGRtV3G+",
+          "M4fFHvVeAA": "M4fFHvVeAA"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "html-webpack-plugin for \"page2-deploy.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRHqcYYwf",
+          "node_modules/webpack/buildin/global.js": "DuR2MXOpqV",
+          "node_modules/lodash/lodash.js": "M4fFHvVeAA",
+          "node_modules/html-webpack-plugin/lib/loader.js!src/page2.html": "fN57nk0uQe"
+        },
+        "usedIds": {
+          "3IRHqcYYwf": "3IRHqcYYwf",
+          "DuR2MXOpqV": "DuR2MXOpqV",
+          "M4fFHvVeAA": "M4fFHvVeAA",
+          "fN57nk0uQe": "fN57nk0uQe"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "html-webpack-plugin for \"page3-deploy.html\"": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/webpack/buildin/module.js": "3IRHqcYYwf",
+          "node_modules/webpack/buildin/global.js": "DuR2MXOpqV",
+          "node_modules/lodash/lodash.js": "M4fFHvVeAA",
+          "node_modules/html-webpack-plugin/lib/loader.js!src/page3.html": "WCJfJD9Sag"
+        },
+        "usedIds": {
+          "3IRHqcYYwf": "3IRHqcYYwf",
+          "DuR2MXOpqV": "DuR2MXOpqV",
+          "M4fFHvVeAA": "M4fFHvVeAA",
+          "WCJfJD9Sag": "WCJfJD9Sag"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "extract-text-webpack-plugin": [
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/lib/css-base.js": "FZ+f8GH+4y",
+          "node_modules/css-loader/index.js!src/page1/page1.css": "bDXYdO/MCl",
+          "node_modules/url-loader/index.js?{\"limit\":10,\"name\":\"./images/[name]_[hash:10].[ext]\"}!src/images/stack1.png": "mff3N+S2tW"
+        },
+        "usedIds": {
+          "FZ+f8GH+4y": "FZ+f8GH+4y",
+          "bDXYdO/MCl": "bDXYdO/MCl",
+          "mff3N+S2tW": "mff3N+S2tW"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!src/page3/page3.css": "4+B/buMmGs",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f8GH+4y"
+        },
+        "usedIds": {
+          "4+B/buMmGs": "4+B/buMmGs",
+          "FZ+f8GH+4y": "FZ+f8GH+4y"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    },
+    {
+      "modules": {
+        "byIdentifier": {
+          "node_modules/css-loader/index.js!src/page2/page2.css": "+gRql2UsIT",
+          "node_modules/css-loader/lib/css-base.js": "FZ+f8GH+4y"
+        },
+        "usedIds": {
+          "+gRql2UsIT": "+gRql2UsIT",
+          "FZ+f8GH+4y": "FZ+f8GH+4y"
+        }
+      },
+      "chunks": {
+        "byName": {},
+        "byBlocks": {},
+        "usedIds": {
+          "0": 0
+        }
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "node_modules/webpack/buildin/module.js": "3IRHqcYYwf",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!src/page2/page2.css": "4v2jxq4ZcV",
+      "node_modules/babel-loader/lib/index.js!src/page4/page4.js": "58IvbkX9+K",
+      "node_modules/webpack/buildin/global.js": "DuR2MXOpqV",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!src/page3/page3.css": "LtkfPhtpr0",
+      "node_modules/lodash/lodash.js": "M4fFHvVeAA",
+      "node_modules/babel-loader/lib/index.js!src/vendor/vendor3.js": "R9NJX9GRoU",
+      "node_modules/babel-loader/lib/index.js!src/page2/page2.js": "XdJkSy7Lbx",
+      "node_modules/babel-loader/lib/index.js!src/page3/page3.js": "XuzxjWUUfd",
+      "node_modules/url-loader/index.js?{\"limit\":10,\"name\":\"./images/[name]_[hash:10].[ext]\"}!src/images/stack2.png": "f5q3N2F4/f",
+      "node_modules/babel-loader/lib/index.js!src/page1/page1.js": "iCZ4MdKKGc",
+      "node_modules/babel-loader/lib/index.js!src/vendor/vendor2.js": "kQBRv/oHpJ",
+      "node_modules/url-loader/index.js?{\"limit\":10,\"name\":\"./images/[name]_[hash:10].[ext]\"}!src/images/stack1.png": "mff3N+S2tW",
+      "node_modules/extract-text-webpack-plugin/loader.js?{\"omit\":1,\"remove\":true}!node_modules/style-loader/index.js!node_modules/css-loader/index.js!src/page1/page1.css": "wWG9msfYvH",
+      "node_modules/babel-loader/lib/index.js!src/vendor/vendor1.js": "xdQx9UUDcy",
+      "multi ./src/vendor/vendor1 ./src/vendor/vendor2 ./src/vendor/vendor3 lodash": 0
+    },
+    "usedIds": {
+      "0": 0,
+      "3IRHqcYYwf": "3IRHqcYYwf",
+      "4v2jxq4ZcV": "4v2jxq4ZcV",
+      "58IvbkX9+K": "58IvbkX9+K",
+      "DuR2MXOpqV": "DuR2MXOpqV",
+      "LtkfPhtpr0": "LtkfPhtpr0",
+      "M4fFHvVeAA": "M4fFHvVeAA",
+      "R9NJX9GRoU": "R9NJX9GRoU",
+      "XdJkSy7Lbx": "XdJkSy7Lbx",
+      "XuzxjWUUfd": "XuzxjWUUfd",
+      "f5q3N2F4/f": "f5q3N2F4/f",
+      "iCZ4MdKKGc": "iCZ4MdKKGc",
+      "kQBRv/oHpJ": "kQBRv/oHpJ",
+      "mff3N+S2tW": "mff3N+S2tW",
+      "wWG9msfYvH": "wWG9msfYvH",
+      "xdQx9UUDcy": "xdQx9UUDcy"
+    }
+  },
+  "chunks": {
+    "byName": {
+      "common": 0,
+      "page1": 1,
+      "page3": 2,
+      "page2": 3,
+      "page4": 4,
+      "manifest": 5
+    },
+    "byBlocks": {},
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  }
+}
